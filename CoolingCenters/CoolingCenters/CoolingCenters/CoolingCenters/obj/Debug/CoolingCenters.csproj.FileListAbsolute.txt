@@ -1,0 +1,11 @@
+C:\Projects\CoolingCenters\CoolingCenters\bin\CoolingCenters.dll
+C:\Projects\CoolingCenters\CoolingCenters\bin\CoolingCenters.pdb
+C:\Projects\CoolingCenters\CoolingCenters\obj\Debug\CoolingCenters.csprojResolveAssemblyReference.cache
+C:\Projects\CoolingCenters\CoolingCenters\obj\Debug\CoolingCenters.dll
+C:\Projects\CoolingCenters\CoolingCenters\obj\Debug\CoolingCenters.pdb
+\\Mac\Home\Desktop\CoolingCenters\CoolingCenters\CoolingCenters\CoolingCenters\bin\CoolingCenters.dll.config
+\\Mac\Home\Desktop\CoolingCenters\CoolingCenters\CoolingCenters\CoolingCenters\bin\CoolingCenters.dll
+\\Mac\Home\Desktop\CoolingCenters\CoolingCenters\CoolingCenters\CoolingCenters\bin\CoolingCenters.pdb
+\\Mac\Home\Desktop\CoolingCenters\CoolingCenters\CoolingCenters\CoolingCenters\obj\Debug\CoolingCenters.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\CoolingCenters\CoolingCenters\CoolingCenters\CoolingCenters\obj\Debug\CoolingCenters.dll
+\\Mac\Home\Desktop\CoolingCenters\CoolingCenters\CoolingCenters\CoolingCenters\obj\Debug\CoolingCenters.pdb

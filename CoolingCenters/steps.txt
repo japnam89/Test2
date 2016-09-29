@@ -1,0 +1,3 @@
+Step 1 : Download and unzip
+Step 2 : Open DB and restore CoolingCenterDb.bak 
+Step 3: Change the web config with your datasource,userid and password

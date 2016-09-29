@@ -1,0 +1,10 @@
+BULK
+INSERT CoolingCenters
+FROM 'C:\Downloads\locations.csv'
+WITH
+(
+FIELDTERMINATOR = ',',
+ROWTERMINATOR = '\n'
+)
+GO
+

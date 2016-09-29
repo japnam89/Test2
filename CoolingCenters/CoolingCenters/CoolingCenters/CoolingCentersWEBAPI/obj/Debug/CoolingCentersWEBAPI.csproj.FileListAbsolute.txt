@@ -1,0 +1,16 @@
+C:\Projects\CoolingCenters\CoolingCentersWEBAPI\bin\CoolingCentersWEBAPI.dll
+C:\Projects\CoolingCenters\CoolingCentersWEBAPI\bin\CoolingCentersWEBAPI.pdb
+C:\Projects\CoolingCenters\CoolingCentersWEBAPI\bin\Newtonsoft.Json.dll
+C:\Projects\CoolingCenters\CoolingCentersWEBAPI\bin\System.Net.Http.Formatting.dll
+C:\Projects\CoolingCenters\CoolingCentersWEBAPI\bin\System.Web.Http.dll
+C:\Projects\CoolingCenters\CoolingCentersWEBAPI\bin\System.Web.Http.WebHost.dll
+C:\Projects\CoolingCenters\CoolingCentersWEBAPI\bin\Newtonsoft.Json.xml
+C:\Projects\CoolingCenters\CoolingCentersWEBAPI\bin\System.Net.Http.Formatting.xml
+C:\Projects\CoolingCenters\CoolingCentersWEBAPI\bin\System.Web.Http.xml
+C:\Projects\CoolingCenters\CoolingCentersWEBAPI\bin\System.Web.Http.WebHost.xml
+C:\Projects\CoolingCenters\CoolingCentersWEBAPI\obj\Debug\CoolingCentersWEBAPI.csprojResolveAssemblyReference.cache
+C:\Projects\CoolingCenters\CoolingCentersWEBAPI\obj\Debug\CoolingCentersWEBAPI.dll
+C:\Projects\CoolingCenters\CoolingCentersWEBAPI\obj\Debug\CoolingCentersWEBAPI.pdb
+C:\Projects\CoolingCenters\CoolingCentersWEBAPI\bin\System.Web.Cors.dll
+C:\Projects\CoolingCenters\CoolingCentersWEBAPI\bin\System.Web.Http.Cors.dll
+C:\Projects\CoolingCenters\CoolingCentersWEBAPI\bin\System.Web.Http.Cors.xml
